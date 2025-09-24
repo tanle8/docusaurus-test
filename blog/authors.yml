@@ -23,3 +23,15 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+tanle:
+  name: Duy-Tan LE
+  title: AI Researcher
+  url: https://linkedin.com/in/tanle-3579
+  image_url: https://github.com/tanle8.png
+  page: true
+  socials:
+    x: tanle8
+    linkedin: tanle8
+    github: tanle8
+    newsletter: https://www.greatfrontend.com

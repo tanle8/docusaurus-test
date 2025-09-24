@@ -1,6 +1,6 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: Tan's First Blog Post
 authors: [slorber, yangshun]
 tags: [hola, docusaurus]
 ---
